@@ -4,7 +4,7 @@ An interactive 3D presentation about black holes. It follows one story: from New
 
 **Author:** Rishikesh Sonar
 
-**Live demo:** `https://YOUR-PROJECT.vercel.app` *(replace after you deploy)*
+**Live demo:** https://black-holes-presentation-ten.vercel.app
 
 ---
 
