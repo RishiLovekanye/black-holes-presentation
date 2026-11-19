@@ -35,7 +35,7 @@ An interactive 3D presentation about black holes. It follows one story: from New
 There is no build step. It is one HTML file.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/RishiLoveKanye/black-holes-presentation.git
 cd YOUR-REPO
 # Option 1: open index.html in your browser
 # Option 2: run a small local server
